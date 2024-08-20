@@ -1,4 +1,4 @@
-module github.com/lxn/win
+module github.com/tianheng2017/win
 
 go 1.23.0
 
